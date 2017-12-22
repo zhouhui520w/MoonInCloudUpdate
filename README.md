@@ -1,3 +1,5 @@
+Android下载更新(兼容7.0文件，支持5.0通知栏显示Icon)
+
 参考文献：
 
 1.okhttp获取下载进度：https://github.com/lizhangqu/CoreProgress
@@ -712,3 +714,5 @@ public class DownloadService extends Service {
 
 
 Demo：https://github.com/zhouhui520w/MoonInCloudUpdate/tree/master
+
+CSDN下载：http://download.csdn.net/download/zhouhui520w/10169671
