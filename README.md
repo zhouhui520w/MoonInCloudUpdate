@@ -1,6 +1,3 @@
-# MoonInCloudUpdate
-Android下载更新(兼容7.0文件，支持5.0通知栏显示Icon)
-
 参考文献：
 
 1.okhttp获取下载进度：https://github.com/lizhangqu/CoreProgress
@@ -8,6 +5,8 @@ Android下载更新(兼容7.0文件，支持5.0通知栏显示Icon)
 2.HttpURLConnection下载文件：https://github.com/feicien/android-auto-update
 
 3.5.0通知栏显示Icon：https://github.com/WVector/AppUpdate
+
+![](https://user-gold-cdn.xitu.io/2017/12/22/1607d4a60c68ee9c?w=540&h=960&f=jpeg&s=30301)
 
 用两种方式实现了更新的效果，项目结构如下：
 
@@ -709,3 +708,7 @@ public class DownloadService extends Service {
     }
 }
 ```
+
+
+
+Demo：https://github.com/zhouhui520w/MoonInCloudUpdate/tree/master
